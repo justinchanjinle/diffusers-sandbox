@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-project-template"
+name = "diffusers-sandbox"
 version = "0.1.0"
 description = ""
 authors = ["Justin Chan <justin@leonardo.ai>"]
